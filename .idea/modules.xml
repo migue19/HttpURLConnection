@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RestService.iml" filepath="$PROJECT_DIR$/RestService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConsumoServicio.iml" filepath="$PROJECT_DIR$/ConsumoServicio.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
